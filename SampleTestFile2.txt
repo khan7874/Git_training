@@ -1,1 +1,3 @@
 how are you
+
+This is comparison in lecture file 2
