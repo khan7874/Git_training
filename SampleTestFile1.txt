@@ -1,3 +1,9 @@
 
+
 hi
 how are you boss.
+
+hi
+git commit revert1
+
+This is comparison lecture
