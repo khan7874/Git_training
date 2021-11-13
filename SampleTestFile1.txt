@@ -7,3 +7,4 @@ hi
 git commit revert1
 
 This is comparison lecture
+This is Stash lecture, change in File1
